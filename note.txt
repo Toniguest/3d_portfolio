@@ -1,0 +1,9 @@
+` (AltGr + ')
+~ (AltGr + ì)
+À (AltGr + shift + a)
+È (AltGr + shift + e)
+Ì (AltGr + shift + i)
+Ò (AltGr + shift + o)
+Ù (AltGr + shift + u)
+® (AltGr + r) registered
+© (AltGr + c) copyright 
