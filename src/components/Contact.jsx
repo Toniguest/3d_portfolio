@@ -111,6 +111,7 @@ const Contact = () => {
               rows="7"
               name="message"
               value={form.message}
+              style={{ resize: "none" }}
               onChange={handleChange}
               placeholder="What do you want to say?"
               className="bg-tertiary py-4 px-6
